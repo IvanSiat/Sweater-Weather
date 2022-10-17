@@ -20,7 +20,6 @@ const Forecast = () => {
     <div>
     <h2>Enter City Below To Check Weather Forecast</h2>
     <div>
-   
 
     </div>
     <form onSubmit={getForecast}>
@@ -31,7 +30,6 @@ const Forecast = () => {
                     value={city}
                     onChange={(e) => setCity(e.target.value)}
                     />
-
                 <button type="submit">Get Weather Forecast</button>
                 
             </form>
