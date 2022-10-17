@@ -20,7 +20,7 @@ const Forecast = () => {
     <div>
     <h2>Enter City Below To Check Weather Forecast</h2>
     <div>
-    
+   
 
     </div>
     <form onSubmit={getForecast}>
@@ -36,6 +36,7 @@ const Forecast = () => {
                 
             </form>
             <Weatherdetails responseObj={responseObj}/>
+            
 </div>
 
    )
