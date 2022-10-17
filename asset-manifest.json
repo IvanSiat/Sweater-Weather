@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Sweater-Weather/static/css/main.484849d5.css",
-    "main.js": "/Sweater-Weather/static/js/main.2f351749.js",
+    "main.css": "/Sweater-Weather/static/css/main.9127f4ec.css",
+    "main.js": "/Sweater-Weather/static/js/main.f2c0bd06.js",
     "static/js/787.c092170f.chunk.js": "/Sweater-Weather/static/js/787.c092170f.chunk.js",
     "static/media/brand-icons.svg": "/Sweater-Weather/static/media/brand-icons.6729d29753e000c17489.svg",
     "static/media/icons.svg": "/Sweater-Weather/static/media/icons.62d9dae4e0040e81c980.svg",
@@ -20,12 +20,12 @@
     "static/media/outline-icons.woff": "/Sweater-Weather/static/media/outline-icons.ddae9b1ba9b0b42f5880.woff",
     "static/media/outline-icons.woff2": "/Sweater-Weather/static/media/outline-icons.687a4990ea22bb1a49d4.woff2",
     "index.html": "/Sweater-Weather/index.html",
-    "main.484849d5.css.map": "/Sweater-Weather/static/css/main.484849d5.css.map",
-    "main.2f351749.js.map": "/Sweater-Weather/static/js/main.2f351749.js.map",
+    "main.9127f4ec.css.map": "/Sweater-Weather/static/css/main.9127f4ec.css.map",
+    "main.f2c0bd06.js.map": "/Sweater-Weather/static/js/main.f2c0bd06.js.map",
     "787.c092170f.chunk.js.map": "/Sweater-Weather/static/js/787.c092170f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.484849d5.css",
-    "static/js/main.2f351749.js"
+    "static/css/main.9127f4ec.css",
+    "static/js/main.f2c0bd06.js"
   ]
 }
