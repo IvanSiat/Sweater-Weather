@@ -41,17 +41,27 @@ main {
 }
 
 footer {
-  padding: 2px;
-  min-height: 100px;
+  padding: 20px;
+  min-height: 10px;
   display: flex;
   flex-direction: column;
   justify-content: center;
-  background: #EEEEEE;
+color: rgba(255, 255, 255, 0.952);
   font-size: small;
   text-align: center;
 }
 
 header {
   padding: 25px;
+  
 }
 
+h1{
+  font-family:Georgia, 'Times New Roman', Times, serif ;
+  color: rgba(255, 255, 255, 0.952);
+}
+
+h2 {
+  font-family:Georgia, 'Times New Roman', Times, serif ;
+  color: rgba(255, 255, 255, 0.952);
+}

@@ -8,7 +8,7 @@
 }
 
 .header{
-    background-color: #6467e2;
+    background-color: hsl(215, 73%, 78%);
     color: whitesmoke;
     padding: 10px;
     font-size: 28px;
@@ -16,17 +16,17 @@
     font-family: 'Recursive', sans-serif;
 }
 
-.day{
-    padding: 15px;
-    color: whitesmoke;
-    font-family: 'Recursive', sans-serif;
-    font-size: 24px;
-    font-weight: 600;
-}
 
-.temp{
-    padding: 15px;
-    color: whitesmoke;
-    font-family: 'Recursive', sans-serif;
-    font-size: 18px;
-}
+
+.details{
+    padding: 2rem;
+    text-align: center;
+    animation: horizontalFlipIn 1s;
+    border-radius: 3px;
+    background-color: white;
+    align-items: center;
+    justify-content: center;
+    font-size: 1.4rem;
+  }
+
+  
